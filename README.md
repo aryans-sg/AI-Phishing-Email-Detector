@@ -9,6 +9,14 @@ I built this project using Python and Scikit-learn. The application has a simple
 - Uses Logistic Regression to classify the email
 - Shows a phishing risk score
 - Shows some common warning signs found in the email
+  
+## Screenshots
+### Home Page
+![Home Page](screenshots/home_page.png)
+### Phishing Detection
+![Phishing Detection](screenshots/phishing_result.png)
+### Legitimate Email Detection
+![Legitimate Email Detection](screenshots/legitimate_result.png)
 
 ## How it works
 Email
