@@ -12,15 +12,15 @@ I built this project using Python and Scikit-learn. The application has a simple
 
 ## How it works
 Email
-  ↓
+  ->
 Text Cleaning
-  ↓
+  ->
 TF-IDF
-  ↓
+  ->
 Logistic Regression
-  ↓
+  ->
 Phishing / Legitimate
-  ↓
+  ->
 Risk Score + Warning Signs
 
 ## Technologies Used
